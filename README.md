@@ -47,4 +47,4 @@ This repository contains a machine learning project based on the famous Titanic 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Mohamed-Kenawy/Titanic_Project.git
-   cd titanic-ml
+   cd Titanic_Project
