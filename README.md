@@ -5,8 +5,7 @@ This repository contains a machine learning project based on the famous Titanic 
 ## 📁 Project Overview
 
 - Uses the **Kaggle Titanic dataset**
-- Implements two main machine learning models:
-  - Decision Tree Classifier
+- Implements machine learning model:
   - Random Forest Classifier
 - Covers the full data science pipeline:
   - Data cleaning and preprocessing
@@ -25,8 +24,7 @@ This repository contains a machine learning project based on the famous Titanic 
 - **EDA**:
   - Visualized survival rates based on features like `Sex`, `Pclass`, `Age`, etc.
 - **Modeling**:
-  - Compared **DecisionTreeClassifier** and **RandomForestClassifier**
-  - Evaluated models using accuracy scores
+  - Evaluated **RandomForestClassifier** model using accuracy scores
 
 ## 🧰 Libraries Used
 
@@ -37,14 +35,9 @@ This repository contains a machine learning project based on the famous Titanic 
 - `seaborn`
 - `scikit-learn`
 
-## 📈 Results
-
-- Both models performed well, with **Random Forest** outperforming the Decision Tree on the validation set.
-- Feature importance plots highlighted `Sex`, `Pclass`, and `Title` as key indicators of survival.
-
 ## 🚀 Getting Started
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mohamed-Kenawy/Titanic_Project.git
-   cd Titanic_Project
+   git clone https://github.com/Mohamed-Kenawy/Titanic-Machine_Learning_from_Disaster.git
+   cd Titanic-Machine_Learning_from_Disaster
